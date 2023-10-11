@@ -45,10 +45,6 @@
 <br/>
 <div align="center">
 
-## 📈 Activity Graph
-
-![SAJIB's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=SAJIB6260&theme=react-dark)
-
 ## 📊 Most Used Language
   
 ![SAJIB's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SAJIB6260&theme=dark)
