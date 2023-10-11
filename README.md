@@ -18,6 +18,7 @@
 <a href="https://www.linkedin.com/in/ShahriaKibria/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 <a href="https://www.instagram.com/shahria_kibria/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="instagram logo"/></a>
 <a href="https://twitter.com/shahria_kibria" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  /></a>
+<a href="mailto:shahriakibriasajib@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail"  /></a>
 </div>
 <br/>
 <img align="center" alt="Coding" width="100%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -43,11 +44,21 @@
 </p>
 <br/>
 <div align="center">
+
+## 📊 Most Used Language
   
 ![SAJIB's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SAJIB6260&theme=dark)
 
+## 📟 GitHub Stats
+
 ![SAJIB's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SAJIB6260&theme=dark)
+
+## ⏱ Streak Stats
   
+![SAJIB's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=SAJIB6260&theme=dark)
+
+## 💳 Github Profile Summary Card
+
 ![SAJIB's GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAJIB6260&theme=dark)
 
 </div>
