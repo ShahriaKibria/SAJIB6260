@@ -47,7 +47,7 @@
 
 ## 📈 Activity Graph
 
-![SAJIB's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=SAJIB6260&theme=)
+![SAJIB's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=SAJIB6260&theme=react-dark)
 
 ## 📊 Most Used Language
   
